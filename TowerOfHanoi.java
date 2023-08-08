@@ -22,5 +22,3 @@ public class TowerOfHanoi {
 
     }
 }
-// T(n) = 2T(n-1) + 1       O(2^n)
-// Number of steps = 2^n - 1
