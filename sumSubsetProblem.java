@@ -22,3 +22,4 @@ public class sumSubsetProblem {
         System.out.println(c);
     }
 }
+// O(2^n)
